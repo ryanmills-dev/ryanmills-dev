@@ -16,7 +16,7 @@ I’m pursuing both **Full-Stack .NET Development** and **Game Development** as 
 
 ### 🎮 Game Development
 - Unreal Engine 5 & Unity projects (gameplay systems, tools, and prototypes)
-- Systems-focused work (quests/objectives, dialogue, inventory/loot, UI)
+- Systems-focused work (combat, quests/objectives, dialogue, inventory/loot, UI)
 
 ## 🔧 Tech & Tools
 - **C# / .NET**, Blazor, MudBlazor
