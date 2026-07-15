@@ -1,35 +1,57 @@
-# Hi, I'm Ryan 👋
+<h1>Hi, I'm Ryan 👋</h1>
 
-I'm a **Software Developer** working with **.NET / C#** and **Blazor (MudBlazor)**, and also a **Game Developer** with a **First-Class Games Development degree**.  
-
-I’m pursuing both **Full-Stack .NET Development** and **Game Development** as parallel career tracks, with a focus on clean architecture, maintainability, and shipping polished features.<br>
+I'm a Gameplay Programmer working in Unreal Engine 5, shipping combat systems, AI behaviours, and quest scripting in C++ and Blueprint, backed by the discipline of professional software engineering, clean architecture, code review, and Agile delivery, applied to every feature I build.
 
 
-- **Currently:** Building a Blazor Game Dev Tracker + polishing Unreal systems showcases.<br>
-- **Highlights:** Blazor + MudBlazor • EF Core + SQL Server • UE5 systems<br>
-- **Open to collaborating on:** Game Jams / small tools projects.
+- Currently: Contributing combat systems, AI, and quest scripting to Ash of Nine, a UE5 Norse mythology action RPG.
 
-## 💼 What I Do
-### 🌍 Web Development (.NET)
-- .NET + Blazor portfolio projects following a work-style structure (**API / Client / Models / Tests**)
-- UI-heavy apps with validation, testing, and SQL-backed data
+- Highlights: Gameplay Ability System (GAS) • State Tree AI • UE5 combat and animation systems
 
-### 🎮 Game Development
-- Unreal Engine 5 & Unity projects (gameplay systems, tools, and prototypes)
-- Systems-focused work (combat, quests/objectives, dialogue, inventory/loot, UI)
+- Open to: Gameplay programmer roles, game jams, and collaborations on small systems-focused projects.
 
-## 🔧 Tech & Tools
-- **C# / .NET**, Blazor, MudBlazor
-- **SQL Server**, EF Core
-- Git, GitHub
-- **Unreal Engine 5 (Blueprints/C++)**, Unity (C#)
 
-## 📌 Featured Projects
-Pinned repos below 👇  
-- DevForge Tracker (Blazor) — (In Progress)
-- Destiny Hub — (Planned)
-- UE5 Systems Showcase — (Planned)
 
-## 🤝 Contact
-- Email: ryanmillsdev@outlook.com
-- LinkedIn: https://www.linkedin.com/in/ryan-mills24/ 
+<h2>🎮 What I Do</h2>
+
+Gameplay Programming
+
+
+- Unreal Engine 5 combat, AI, and quest systems in C++ and Blueprint Scripting
+  
+- Gameplay Ability System (GAS) and State Tree architecture
+  
+- Shipped features through full production pipelines: prototyping, QA, code review, refactoring
+
+
+
+<h2>🔧 Tech & Tools</h2>
+
+
+Unreal Engine 5 (C++ / Blueprints), Unity (C#)
+Gameplay Ability System (GAS), State Tree, Behaviour Trees
+Perforce, Git, GitHub
+
+Also proficient in: C# / .NET, Blazor, EF Core, SQL Server
+
+
+
+<h2>📌 Featured Projects</h2>
+
+
+Ash of Nine — UE5 Norse mythology action RPG (Kyrie Studios). Contributing combat systems, AI, camera mechanics, and quest scripting, including GAS-driven abilities and State Tree-based combat logic. (Studio project, code not public.)
+Samsara — UE5 souls-like action RPG (Infinity27 bootcamp). Built a 3-hit combo and slam shockwave attack in C++/Blueprint through a full studio production pipeline. (Studio project, code not public.)
+
+
+See my [portfolio](https://ryanmillsdev.myportfolio.com) for write-ups and screenshots of both.
+
+
+
+<h2>🤝 Contact</h2>
+
+
+**Portfolio**: [ryanmillsdev.myportfolio.com](ryanmillsdev.myportfolio.com) 
+
+**Email**: ryanmillsdev@outlook.com
+
+**LinkedIn**: [https://linkedin.com/in/ryan-mills24](https://linkedin.com/in/ryan-mills24)
+ 
