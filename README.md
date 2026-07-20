@@ -39,6 +39,7 @@ Also proficient in: C# / .NET, Blazor, EF Core, SQL Server
 
 
 Ash of Nine — UE5 Norse mythology action RPG (Kyrie Studios). Contributing combat systems, AI, camera mechanics, and quest scripting, including GAS-driven abilities and State Tree-based combat logic. (Studio project, code not public.)
+
 Samsara — UE5 souls-like action RPG (Infinity27 bootcamp). Built a 3-hit combo and slam shockwave attack in C++/Blueprint through a full studio production pipeline. (Studio project, code not public.)
 
 
